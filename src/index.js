@@ -1,5 +1,6 @@
-import Triangle from "./triangle.js";
 import "./css/styles.css";
+
+import Triangle from "./triangle.js";
 
 function handleFormSubmission() {
   event.preventDefault();
